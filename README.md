@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aruj Basnal</h1>
-<h3 align="center">A passionate Frontend Developer and Designer</h3>
+<h3 align="center">A passionate Developer and Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruj77&label=Profile%20views&color=0e75b6&style=flat" alt="aruj77" /> </p>
 
